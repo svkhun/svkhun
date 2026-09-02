@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+@+SWU;Aspiring+Data+Scientist+%26+ML+Practitioner;Credit+Risk+Scoring+%7C+Explainable+AI+(XAI);Data+Engineering+Pipelines+%26+Analytics" alt="Typing SVG" />
 </p>
 
+[![Production Portfolio](https://img.shields.io/badge/Live_Portfolio-svkhun.vercel.app-00D2D3?style=for-the-badge&logo=vercel&logoColor=black)](https://svkhun.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakorn-khundilokrattaya-5870b8429/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/svkhun)
 <br/>
@@ -13,6 +14,13 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=svkhun.svkhun&left_color=gray&right_color=00D2D3)](https://github.com/svkhun)
 
 </div>
+
+---
+
+### Interactive Web Portfolio
+
+Explore live interactive architecture drawers, verified certifications, and explainable AI pipelines:
+[svkhun.vercel.app](https://svkhun.vercel.app)
 
 ---
 
@@ -25,10 +33,20 @@
 ### Overview
 
 * **Education:** B.Eng. in Computer Engineering, Faculty of Engineering, Srinakharinwirot University (SWU).
-* **Target Roles:** Aspiring Data Scientist / Data Engineer seeking technical opportunities and internships within Banking, FinTech, and Risk Analytics.
-* **Core Domains:** Credit Risk Modeling (Probability of Default, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), and ETL Data Engineering Pipelines.
+* **Target Roles:** Aspiring Data Scientist / Machine Learning Engineer seeking technical opportunities and internships within Banking, FinTech, and Risk Analytics.
+* **Core Domains:** Credit Risk Modeling (Probability of Default, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), and Scalable Telemetry Pipelines.
 * **Problem Solving:** Hackathon finalist experienced in optimizing tabular prediction models under strict evaluation metrics (AUC) and production constraints.
-* **Languages:** English (Professional Working Proficiency, CEFR B1+) and Japanese (Elementary / Minna no Nihongo).
+* **Languages:** English (Professional Working Proficiency, CEFR B1+ / Oxford Test) and Japanese (Beginner).
+
+---
+
+### Industry Certifications & Assessments
+
+| Issuing Organization | Assessment / Credential | Core Competencies & Score | Verification |
+| :--- | :--- | :--- | :--- |
+| **SKILLKAMP by KBTG** | Data Analyst Assessment (STAMP) | Score: 97/150 (Intermediate) -- Data Cleaning & Preprocessing (23/30), EDA & Visualization (20/30) | [View Portfolio](https://svkhun.vercel.app) |
+| **SKILLKAMP by KBTG** | Digital & Performance Marketer (STAMP) | Score: 98/150 (Intermediate) -- Digital Marketing Analytics (26/30), Data-Driven Marketing (21/30) | [View Portfolio](https://svkhun.vercel.app) |
+| **AUA Language Center** | Oxford Placement Test | CEFR B1+ (Score: 51/120) -- Use of English: 54, Listening: 48 | [View Portfolio](https://svkhun.vercel.app) |
 
 ---
 
@@ -37,13 +55,15 @@
 | Project | Domain / Core Focus | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
 | **Credit Risk Scoring & Explainable AI** | FinTech / Risk Analytics | Python, XGBoost, LightGBM, Scikit-Learn, SHAP | Built Probability of Default (PD) scoring pipeline with regulatory-standard feature interpretability using SHAP attributions. |
+| **Manufacturing Telemetry & OEE Analytics** | Industrial IoT / Data Engineering | Docker, PostgreSQL, SQLAlchemy, Streamlit | Architected high-frequency machine sensor simulator, automated batch ETL pipelines, and real-time OEE tracking. |
+| **GuardianAI - Frailty Risk Dashboard** | HealthTech / Preventive Clinical AI | Python, XGBoost, FastAPI, React, SHAP | Deployed clinically interpretable screening system for elderly frailty attribution with low-latency API endpoints. |
 | **Long Overdue Debtor (LOD) Prediction** | Financial Default Forecasting | Python, Pandas, Scikit-Learn, LightGBM | Engineered predictive models to classify 90+ day loan default risks, optimized for Area Under the ROC Curve (AUC). |
 
 ---
 
 ### Hackathons & Competitions
 
-* **Aihack Thailand 2025 (Final Round)** — *Organized by AIRA & AIFUL, Chulalongkorn Business School*.
+* **Aihack Thailand 2025 (Final Round)** -- *Organized by AIRA & AIFUL, Chulalongkorn Business School*.
   * Advanced through the Selection Round to compete as a national finalist in an intensive 3-day data science competition.
   * Developed machine learning classification models on real-world financial loan datasets to predict Long Overdue Debtors (LOD, >90 days overdue after 12 months).
   * Engineered predictive features, optimized pipeline performance for AUC leaderboard rankings across Public and Private test datasets on Probspace, and delivered strategic business insights.
