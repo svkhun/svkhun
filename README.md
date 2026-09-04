@@ -120,19 +120,6 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=svkhun&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=81A1C1" alt="Sivakorn's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=svkhun&layout=compact&theme=nord&hide_border=true&title_color=88C0D0" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svkhun&theme=nord&hide_border=true&stroke=88C0D0" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2D3&height=100&section=footer"/>
 </div>
