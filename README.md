@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/svkhun)
 <br/>
 [![Email](https://img.shields.io/badge/Email-sivakorn.khun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivakorn.khun@gmail.com)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=svkhun.svkhun&left_color=gray&right_color=00D2D3)](https://github.com/svkhun)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=svkhun.svkhun&left_color=181717&right_color=00D2D3)](https://github.com/svkhun)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ### Interactive Web Portfolio
 
-Explore live interactive architecture drawers, verified certifications, and explainable AI pipelines:
+Explore live interactive architecture drawers, verified certifications, and explainable AI pipelines:  
 [svkhun.vercel.app](https://svkhun.vercel.app)
 
 ---
@@ -32,11 +32,11 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 ### Overview
 
-* **Education:** B.Eng. in Computer Engineering, Faculty of Engineering, Srinakharinwirot University (SWU).
+* **Education:** B.Eng. in Computer Engineering, Faculty of Engineering, Srinakharinwirot University (SWU) (2022 – Present).
 * **Target Roles:** Aspiring Data Scientist / Machine Learning Engineer seeking technical opportunities and internships within Banking, FinTech, and Risk Analytics.
-* **Core Domains:** Credit Risk Modeling (Probability of Default, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), and Scalable Telemetry Pipelines.
-* **Problem Solving:** Hackathon finalist experienced in optimizing tabular prediction models under strict evaluation metrics (AUC) and production constraints.
-* **Languages:** English (Professional Working Proficiency, CEFR B1+ / Oxford Test) and Japanese (Beginner).
+* **Core Domains:** Credit Risk Modeling (Probability of Default, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), Scalable Telemetry Pipelines, and Spatial ML Modeling.
+* **Problem Solving:** Multi-competition hackathon finalist experienced in optimizing tabular prediction models under strict evaluation metrics (AUC) and production constraints.
+* **Languages:** Thai (Native), English (Professional Working Proficiency, CEFR B1+ / Oxford Test Score: 51), and Japanese (Beginner).
 
 ---
 
@@ -54,19 +54,27 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 | Project | Domain / Core Focus | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Credit Risk Scoring & Explainable AI** | FinTech / Risk Analytics | Python, XGBoost, LightGBM, Scikit-Learn, SHAP | Built Probability of Default (PD) scoring pipeline with regulatory-standard feature interpretability using SHAP attributions. |
-| **Manufacturing Telemetry & OEE Analytics** | Industrial IoT / Data Engineering | Docker, PostgreSQL, SQLAlchemy, Streamlit | Architected high-frequency machine sensor simulator, automated batch ETL pipelines, and real-time OEE tracking. |
+| **Credit Risk Scoring & Explainable AI** | FinTech / Risk Analytics | Python, LightGBM, XGBoost, SHAP, OptBinning, FastAPI | Built Probability of Default (PD) scoring pipeline with regulatory-standard feature interpretability using SHAP attributions and monotonic WoE binning. |
+| **Manufacturing Telemetry & OEE Analytics** | Industrial IoT / Data Engineering | Docker, PostgreSQL, Apache Spark, Airflow, SQLAlchemy, Streamlit | Architected high-frequency machine sensor simulator, automated batch ETL pipelines, and real-time OEE tracking. |
 | **GuardianAI - Frailty Risk Dashboard** | HealthTech / Preventive Clinical AI | Python, XGBoost, FastAPI, React, SHAP | Deployed clinically interpretable screening system for elderly frailty attribution with low-latency API endpoints. |
-| **Long Overdue Debtor (LOD) Prediction** | Financial Default Forecasting | Python, Pandas, Scikit-Learn, LightGBM | Engineered predictive models to classify 90+ day loan default risks, optimized for Area Under the ROC Curve (AUC). |
+| **Long Overdue Debtor (LOD) Prediction** | Financial Default Forecasting | Python, Pandas, Scikit-Learn, LightGBM, XGBoost | Engineered predictive models to classify 90+ day loan default risks on ~40,000 credit records, optimized for Area Under the ROC Curve (AUC). |
 
 ---
 
 ### Hackathons & Competitions
 
-* **Aihack Thailand 2025 (Final Round)** -- *Organized by AIRA & AIFUL, Chulalongkorn Business School*.
-  * Advanced through the Selection Round to compete as a national finalist in an intensive 3-day data science competition.
+* **Aihack Thailand 2025 (Final Round)** -- *Organized by AIRA & AIFUL, Chulalongkorn Business School* (Dec 2025)
+  * Advanced through the Selection Round to compete as a national top 8 finalist in an intensive 3-day data science competition.
   * Developed machine learning classification models on real-world financial loan datasets to predict Long Overdue Debtors (LOD, >90 days overdue after 12 months).
   * Engineered predictive features, optimized pipeline performance for AUC leaderboard rankings across Public and Private test datasets on Probspace, and delivered strategic business insights.
+* **True Innovation Launchpad 2026** -- *AI & Data Science Lead (Team Nakphatthana Tuapralat)* (Jan 2026)
+  * Spearheaded data strategy and predictive modeling for elderly frailty prevention in the Healthcare Innovation Track, developing sub-30ms clinical risk scoring APIs.
+* **Geospatial Intelligence for Resilience Hackathon 2026** -- *Spatial Data Scientist & ML Modeler* (Jan 2026)
+  * Organized by GISTDA x KMITL x KMUTT; built "Rain-to-Flood" spatial model fusing Sentinel-1 SAR soil backscatter, Copernicus GLO-30 DEM, and precipitation APIs for 30m flash flood mapping.
+* **CDG Hackathon 2026** -- *Team GrandGuardianAI* (Jul 2026)
+  * Competed in architecting specialized AI solutions targeting high-impact public sector and operational challenges.
+* **LINE MAN Wongnai Junior Case Competition** -- *Strategic Growth & Unit Economics Lead (Team Low Cortisol)* (Nov 2024)
+  * Formulated campus delivery optimization and "Silent Mission" growth campaign with 8.87 THB/user CAC, acquiring 462 VIP trial conversions.
 
 ---
 
@@ -103,7 +111,8 @@ Explore live interactive architecture drawers, verified certifications, and expl
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /></a>
 <a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+<a href="https://docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
 
 <br/>
 
@@ -114,7 +123,7 @@ Explore live interactive architecture drawers, verified certifications, and expl
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
+<a href="https://notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 
 </div>
 
