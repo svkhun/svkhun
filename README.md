@@ -3,7 +3,7 @@
 # Sivakorn Khundilokrattaya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+@+SWU;Aspiring+Data+Scientist+%26+ML+Practitioner;Credit+Risk+Scoring+%7C+Explainable+AI+(XAI);Data+Engineering+Pipelines+%26+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+@+SWU;Aspiring+Data+Scientist+%26+ML+Practitioner;FinTech+AI+%7C+Graph+Neural+Networks+(GNN)+%26+Anti-Scam;Credit+Risk+Scoring+%7C+Explainable+AI+(XAI);Sub-80ms+Real-Time+Inference+%26+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 [![Production Portfolio](https://img.shields.io/badge/Live_Portfolio-svkhun.vercel.app-00D2D3?style=for-the-badge&logo=vercel&logoColor=black)](https://svkhun.vercel.app)
@@ -26,7 +26,7 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 ### About Me
 
-> "I am a Computer Engineering student at Srinakharinwirot University specializing in Data Science, Machine Learning, and Data Engineering. I focus on developing production-grade pipelines, credit risk assessment systems, and transparent, explainable AI architectures tailored for the financial services industry."
+> "I am a Computer Engineering student at Srinakharinwirot University specializing in Data Science, Machine Learning, and Data Engineering. I focus on developing production-grade pipelines, sub-80ms real-time Graph Neural Networks (RGCN), credit risk assessment systems, and transparent, explainable AI architectures tailored for the financial services industry."
 
 ---
 
@@ -34,8 +34,8 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 * **Education:** B.Eng. in Computer Engineering, Faculty of Engineering, Srinakharinwirot University (SWU) (2022 – Present).
 * **Target Roles:** Aspiring Data Scientist / Machine Learning Engineer seeking technical opportunities and internships within Banking, FinTech, and Risk Analytics.
-* **Core Domains:** Credit Risk Modeling (Probability of Default, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), Scalable Telemetry Pipelines, and Spatial ML Modeling.
-* **Problem Solving:** Multi-competition hackathon finalist experienced in optimizing tabular prediction models under strict evaluation metrics (AUC) and production constraints.
+* **Core Domains:** Relational Graph Intelligence (RGCN / PyG), High-Throughput Sub-80ms Inference (ONNX Runtime), Credit Risk Modeling (PD, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), and Production Data Engineering.
+* **Problem Solving:** Multi-competition hackathon finalist experienced in optimizing tabular & graph prediction models under strict evaluation metrics (AUC) and production latency SLAs (P99 < 12ms).
 * **Languages:** Thai (Native), English (Professional Working Proficiency, CEFR B1+ / Oxford Test Score: 51), and Japanese (Beginner).
 
 ---
@@ -54,6 +54,7 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 | Project | Domain / Core Focus | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
+| **[K-Sentinel & WealthPilot](https://github.com/svkhun/k-sentinel-wealthpilot)** <br/> *(Live: [Render Demo](https://k-sentinel-wealthpilot.onrender.com/))* | FinTech / Real-time Scam Shield & Autonomous Copilot *(KBTG Kampus Hackathon 2026)* | Python, PyG (RGCN), ONNX Runtime, FastAPI, React 18, Scikit-Learn | Dual-engine digital banking platform: Sub-12ms (P99 11.62ms) relational graph intelligence for mule account detection & autonomous cashflow Safe-to-Spend micro-sweep engine deployed on Cloud. |
 | **Credit Risk Scoring & Explainable AI** | FinTech / Risk Analytics | Python, LightGBM, XGBoost, SHAP, OptBinning, FastAPI | Built Probability of Default (PD) scoring pipeline with regulatory-standard feature interpretability using SHAP attributions and monotonic WoE binning. |
 | **Manufacturing Telemetry & OEE Analytics** | Industrial IoT / Data Engineering | Docker, PostgreSQL, Apache Spark, Airflow, SQLAlchemy, Streamlit | Architected high-frequency machine sensor simulator, automated batch ETL pipelines, and real-time OEE tracking. |
 | **GuardianAI - Frailty Risk Dashboard** | HealthTech / Preventive Clinical AI | Python, XGBoost, FastAPI, React, SHAP | Deployed clinically interpretable screening system for elderly frailty attribution with low-latency API endpoints. |
@@ -63,6 +64,10 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 ### Hackathons & Competitions
 
+* **KBTG Kampus Hackathon 2026** -- *Track 2: Data Science & Intelligence* (Sep 2026)
+  * Architected **K-Sentinel & WealthPilot**, an industrial-grade K PLUS digital banking copilot combining autonomous cashflow optimization with sub-80ms real-time relational graph intelligence.
+  * Built a 2-hop Relational Graph Convolutional Network (RGCN via PyG) to detect multi-tier mule account rings and task scams; optimized model via ONNX Runtime to achieve P99 inference latency of **11.62ms** (exceeding the strict <80ms SLA).
+  * Engineered autonomous Safe-to-Spend forecasting, automated micro-sweep savings vault (2.0% p.a.), and deployed a full-stack production architecture with FastAPI and React 18 Router SPA on Render.
 * **Aihack Thailand 2025 (Final Round)** -- *Organized by AIRA & AIFUL, Chulalongkorn Business School* (Dec 2025)
   * Advanced through the Selection Round to compete as a national top 8 finalist in an intensive 3-day data science competition.
   * Developed machine learning classification models on real-world financial loan datasets to predict Long Overdue Debtors (LOD, >90 days overdue after 12 months).
@@ -94,8 +99,11 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 <br/>
 
-**Data Science & Machine Learning**  
+**Data Science, Deep Learning & Machine Learning**  
 <br/>
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
+<a href="https://pyg.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch_Geometric_(PyG)-3C2179?style=flat-square&logo=pytorch&logoColor=white" /></a>
+<a href="https://onnxruntime.ai/" target="_blank"><img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></a>
@@ -105,14 +113,16 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 <br/>
 
-**Data Engineering & Infrastructure**  
+**Data Engineering, Full-Stack & Infrastructure**  
 <br/>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /></a>
+<a href="https://docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
 <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /></a>
 <a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" /></a>
-<a href="https://docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
 
 <br/>
 
