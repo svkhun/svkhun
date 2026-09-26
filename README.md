@@ -54,7 +54,7 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 | Project | Domain / Core Focus | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[K-Sentinel & WealthPilot](https://github.com/svkhun/k-sentinel-wealthpilot)** <br/> *(Live: [Render Demo](https://k-sentinel-wealthpilot.onrender.com/))* | FinTech / Real-time Scam Shield & Autonomous Copilot *(KBTG Kampus Hackathon 2026)* | Python, PyG (RGCN), ONNX Runtime, FastAPI, React 18, Scikit-Learn | Dual-engine digital banking platform: Sub-12ms (P99 11.62ms) relational graph intelligence for mule account detection & autonomous cashflow Safe-to-Spend micro-sweep engine deployed on Cloud. |
+| **[FlowSense & TrustGraph](https://github.com/svkhun/k-flowsense-trustgraph)** <br/> *(Live: [Render Demo](https://k-flowsense-trustgraph.onrender.com/))* | FinTech / Frictionless Cashflow & Target-Specific Fraud Defense for K PLUS *(KBTG Kampus Hackathon 2026)* | Python, PyG (R-GCN), LightGBM, Feast Feature Store, Triton Serving, FastAPI, React 18 | Dual-module core banking platform: Sub-80ms (P50 3.85ms, P99 11.62ms) R-GCN graph intelligence for mule detection with 5s Micro-Auth & LightGBM 30-day Status Horizon Bar with 1-Tap Undo (100% instant recall). |
 | **Credit Risk Scoring & Explainable AI** | FinTech / Risk Analytics | Python, LightGBM, XGBoost, SHAP, OptBinning, FastAPI | Built Probability of Default (PD) scoring pipeline with regulatory-standard feature interpretability using SHAP attributions and monotonic WoE binning. |
 | **Manufacturing Telemetry & OEE Analytics** | Industrial IoT / Data Engineering | Docker, PostgreSQL, Apache Spark, Airflow, SQLAlchemy, Streamlit | Architected high-frequency machine sensor simulator, automated batch ETL pipelines, and real-time OEE tracking. |
 | **GuardianAI - Frailty Risk Dashboard** | HealthTech / Preventive Clinical AI | Python, XGBoost, FastAPI, React, SHAP | Deployed clinically interpretable screening system for elderly frailty attribution with low-latency API endpoints. |
@@ -65,9 +65,11 @@ Explore live interactive architecture drawers, verified certifications, and expl
 ### Hackathons & Competitions
 
 * **KBTG Kampus Hackathon 2026** -- *Track 2: Data Science & Intelligence* (Sep 2026)
-  * Architected **K-Sentinel & WealthPilot**, an industrial-grade K PLUS digital banking copilot combining autonomous cashflow optimization with sub-80ms real-time relational graph intelligence.
-  * Built a 2-hop Relational Graph Convolutional Network (RGCN via PyG) to detect multi-tier mule account rings and task scams; optimized model via ONNX Runtime to achieve P99 inference latency of **11.62ms** (exceeding the strict <80ms SLA).
-  * Engineered autonomous Safe-to-Spend forecasting, automated micro-sweep savings vault (2.0% p.a.), and deployed a full-stack production architecture with FastAPI and React 18 Router SPA on Render.
+  * Architected **FlowSense & TrustGraph for K PLUS**, an enterprise-grade digital banking platform eliminating Budget Burnout and Security Friction for First Jobbers (18k–35k THB).
+  * **Module A (FlowSense):** Engineered 30-day liquidity forecasting via LightGBM with rolling-window lag features & transaction seasonality; created the **Status Horizon Bar**, suppressed alert fatigue during normal dips, and deployed automated micro-sweeps with **1-Tap Undo (100% instant recall, zero penalties)** into a high-interest sub-account (1.50% p.a.).
+  * **Module B (TrustGraph):** Developed a Relational Graph Convolutional Network (R-GCN via PyG) to detect multi-tier mule account topology and velocity in real-time; achieved **3.85ms median (P99 11.62ms)** inference latency on Triton/ONNX serving, beating the strict <80ms core banking SLA.
+  * **Zero-Delay & User Autonomy:** Built **Zero-Delay Baseline** for routine transfers (0 added steps) and replaced arbitrary 15-minute lockouts with **Micro-Auth (5s face liveness)** and transparent **Direct Risk Reasoning** in plain language, preserving user autonomy while stopping task scams.
+  * Deployed full-stack production architecture with Kafka event streaming, Feast Feature Store (Redis O(1)), FastAPI, and an editorial Bento Grid React 18 SPA on Render.
 * **Aihack Thailand 2025 (Final Round)** -- *Organized by AIRA & AIFUL, Chulalongkorn Business School* (Dec 2025)
   * Advanced through the Selection Round to compete as a national top 8 finalist in an intensive 3-day data science competition.
   * Developed machine learning classification models on real-world financial loan datasets to predict Long Overdue Debtors (LOD, >90 days overdue after 12 months).
