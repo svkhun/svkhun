@@ -3,7 +3,7 @@
 # Sivakorn Khundilokrattaya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+@+SWU;Aspiring+Data+Scientist+%26+ML+Practitioner;FinTech+AI+%7C+Graph+Neural+Networks+(GNN)+%26+Anti-Scam;Credit+Risk+Scoring+%7C+Explainable+AI+(XAI);Sub-80ms+Real-Time+Inference+%26+Data+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student+@+SWU;Aspiring+Data+Scientist+%26+ML+Practitioner;FinTech+%26+Logistics+AI+%7C+GNN+%26+Anti-Scam;Credit+%26+Reliability+Risk+Scoring+%7C+Explainable+AI;Sub-80ms+Real-Time+Inference+%26+Data+Pipelines" alt="Typing SVG" />
 </p>
 
 [![Production Portfolio](https://img.shields.io/badge/Live_Portfolio-svkhun.vercel.app-00D2D3?style=for-the-badge&logo=vercel&logoColor=black)](https://svkhun.vercel.app)
@@ -26,15 +26,15 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 ### About Me
 
-> "I am a Computer Engineering student at Srinakharinwirot University specializing in Data Science, Machine Learning, and Data Engineering. I focus on developing production-grade pipelines, sub-80ms real-time Graph Neural Networks (RGCN), credit risk assessment systems, and transparent, explainable AI architectures tailored for the financial services industry."
+> "I am a Computer Engineering student at Srinakharinwirot University specializing in Data Science, Machine Learning, and Data Engineering. I focus on developing production-grade pipelines, sub-80ms real-time Graph Neural Networks (RGCN), dynamic credit & reliability risk assessment systems, and transparent, explainable AI architectures tailored for the financial services and e-commerce logistics industries."
 
 ---
 
 ### Overview
 
 * **Education:** B.Eng. in Computer Engineering, Faculty of Engineering, Srinakharinwirot University (SWU) (2022 – Present).
-* **Target Roles:** Aspiring Data Scientist / Machine Learning Engineer seeking technical opportunities and internships within Banking, FinTech, and Risk Analytics.
-* **Core Domains:** Relational Graph Intelligence (RGCN / PyG), High-Throughput Sub-80ms Inference (ONNX Runtime), Credit Risk Modeling (PD, Long Overdue Debtor forecasting), Explainable AI (SHAP, LIME), and Production Data Engineering.
+* **Target Roles:** Aspiring Data Scientist / Machine Learning Engineer seeking technical opportunities and internships within Banking, FinTech, E-Commerce, and Risk Analytics.
+* **Core Domains:** Relational Graph Intelligence (RGCN / PyG), High-Throughput Sub-80ms Inference (ONNX Runtime / Triton), Credit & Reliability Risk Modeling (PD, COD failure forecasting), Explainable AI (SHAP, LIME), and Production Data Engineering.
 * **Problem Solving:** Multi-competition hackathon finalist experienced in optimizing tabular & graph prediction models under strict evaluation metrics (AUC) and production latency SLAs (P99 < 12ms).
 * **Languages:** Thai (Native), English (Professional Working Proficiency, CEFR B1+ / Oxford Test Score: 51), and Japanese (Beginner).
 
@@ -55,6 +55,7 @@ Explore live interactive architecture drawers, verified certifications, and expl
 | Project | Domain / Core Focus | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
 | **[FlowSense & TrustGraph](https://github.com/svkhun/k-flowsense-trustgraph)** <br/> *(Live: [Render Demo](https://k-flowsense-trustgraph.onrender.com/))* | FinTech / Frictionless Cashflow & Target-Specific Fraud Defense for K PLUS *(KBTG Kampus Hackathon 2026)* | Python, PyG (R-GCN), LightGBM, Feast Feature Store, Triton Serving, FastAPI, React 18 | Dual-module core banking platform: Sub-80ms (P50 3.85ms, P99 11.62ms) R-GCN graph intelligence for mule detection with 5s Micro-Auth & LightGBM 30-day Status Horizon Bar with 1-Tap Undo (100% instant recall). |
+| **[Shopee COD Reliability Engine](https://github.com/svkhun/Shopee-Ultimate-Case-Challenge)** | E-Commerce Logistics / Dynamic Reliability Scoring & Risk Mitigation *(Shopee Ultimate Case Challenge 2026)* | Python, Scikit-Learn, FastAPI, Pandas, SciPy, Vanilla JS / CSS | End-to-end ML risk engine (ROC-AUC 0.8629) resolving Cash on Delivery (COD) failed deliveries; features 4-tier progressive buyer policy, dynamic feedback loop (+8/-20 pts), and interactive Shopee smartphone simulator projecting a 58% RTO reduction (฿42.9M annual EBITDA boost). |
 | **Credit Risk Scoring & Explainable AI** | FinTech / Risk Analytics | Python, LightGBM, XGBoost, SHAP, OptBinning, FastAPI | Built Probability of Default (PD) scoring pipeline with regulatory-standard feature interpretability using SHAP attributions and monotonic WoE binning. |
 | **Manufacturing Telemetry & OEE Analytics** | Industrial IoT / Data Engineering | Docker, PostgreSQL, Apache Spark, Airflow, SQLAlchemy, Streamlit | Architected high-frequency machine sensor simulator, automated batch ETL pipelines, and real-time OEE tracking. |
 | **GuardianAI - Frailty Risk Dashboard** | HealthTech / Preventive Clinical AI | Python, XGBoost, FastAPI, React, SHAP | Deployed clinically interpretable screening system for elderly frailty attribution with low-latency API endpoints. |
@@ -64,6 +65,11 @@ Explore live interactive architecture drawers, verified certifications, and expl
 
 ### Hackathons & Competitions
 
+* **Shopee Ultimate Case Challenge 2026 (SUCC)** -- *Lead Data Scientist & Product Architect* (Sep 2026)
+  * Architected the **Smart COD Reliability System & Risk Engine** to solve Cash on Delivery (COD) delivery failure disparity (10.6× higher failure risk than prepaid, 85.1% concentration of platform return-to-origin waste).
+  * **Machine Learning Risk Engine:** Developed a calibrated Random Forest classification pipeline (**ROC-AUC 0.8629**, PR-AUC 0.3722, Brier Score 0.021) that converts delivery failure probabilities into an explainable **Reliability Score (0–100)**.
+  * **4-Tier Progressive Policy & Feedback Loop:** Engineered a dynamic decision framework categorizing buyers into 4 operational tiers (Grade A Zero Friction to Grade D ฿40 Deposit / Prepaid Conversion) paired with an automated self-correcting feedback loop (+8 pts on delivery, -20 pts on RTO).
+  * **Interactive Mobile App Simulator & Financial Model:** Built a full-stack executive platform with FastAPI REST endpoints and an authentic Shopee smartphone checkout simulator; validated empirical hypothesis via two-proportion Z-test ($z = 24.42, p < 0.001$), projecting a **58% RTO waste reduction** and **฿42.9M annual EBITDA boost**.
 * **KBTG Kampus Hackathon 2026** -- *Track 2: Data Science & Intelligence* (Sep 2026)
   * Architected **FlowSense & TrustGraph for K PLUS**, an enterprise-grade digital banking platform eliminating Budget Burnout and Security Friction for First Jobbers (18k–35k THB).
   * **Module A (FlowSense):** Engineered 30-day liquidity forecasting via LightGBM with rolling-window lag features & transaction seasonality; created the **Status Horizon Bar**, suppressed alert fatigue during normal dips, and deployed automated micro-sweeps with **1-Tap Undo (100% instant recall, zero penalties)** into a high-interest sub-account (1.50% p.a.).
@@ -109,6 +115,7 @@ Explore live interactive architecture drawers, verified certifications, and expl
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /></a>
+<a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" /></a>
 <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/XGBoost-EB3223?style=flat-square&logo=xgboost&logoColor=white" /></a>
 <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/LightGBM-4A90E2?style=flat-square&logo=python&logoColor=white" /></a>
 <a href="https://shap.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square&logo=python&logoColor=white" /></a>
