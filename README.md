@@ -47,18 +47,6 @@ complex data into practical, explainable, and measurable solutions.
 <br/><br/>
 
 
-<!-- Profile Views Counter -->
-
-<p align="center">
-  <a href="https://github.com/svkhun">
-    <img
-      src="https://hits.sh/github.com/svkhun.svg?style=flat-square&label=Profile%20Views&color=138477"
-      alt="GitHub Profile Views"
-    />
-  </a>
-</p>
-
-
 </div>
 
 ---
