@@ -273,7 +273,7 @@ Built machine learning classification models to predict long-overdue credit risk
 
 ## Hackathons & Achievements
 
-### Aihack Thailand 2025 — Top 8 Finalist
+### Aihack Thailand 2025 — Finalist
 
 **Financial Machine Learning Competition**
 
